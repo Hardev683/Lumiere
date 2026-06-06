@@ -1,0 +1,6 @@
+{
+  "name": "Lumiere Wishlist",
+  "description": "An elegant, high-fashion curated wishlist experience featuring asymmetric layouts, minimal editorial typography, and interactive shopping bag functionality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
